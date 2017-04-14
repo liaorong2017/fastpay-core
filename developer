@@ -1,0 +1,3 @@
+groupId , artifactId , version :
+scope : compile(default),provided,runtime,test,system
+exclusions
